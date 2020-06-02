@@ -1,6 +1,0 @@
-{
-  "name": "FTServer",
-  "tagline": "Lightweight Embeddable iBoxDB Full Text Search Server",
-  "body": "## Lightweight Full Text Search Server for Java\r\n\r\n### Setup\r\n\r\n```\r\nUse Netbeans to build or download fts.zip(WAR) from Release\r\nDeploy to tomcat/jetty\r\n```\r\n\r\n\r\n![](https://github.com/iboxdb/ftserver/raw/master/FTServer/web/css/fts2.png)\r\n\r\n### Dependencies\r\n[iBoxDB](http://www.iboxdb.com)\r\n\r\n[FTS Engine](https://github.com/iboxdb/full-text-search)\r\n\r\n[Semantic-UI](http://semantic-ui.com/)\r\n\r\n[Jodd](http://jodd.org/)\r\n\r\n\r\n### Sources\r\n\r\n[FTS for JAVA JSP](https://github.com/iboxdb/ftserver)\r\n\r\n[FTS for C# ASP.NET](https://github.com/iboxdb/ftserver-cs#the-results-order)\r\n\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
